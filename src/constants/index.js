@@ -36,10 +36,7 @@ import {
   hack4,
   hack5,
   hack6,
-
-
 } from "../assets";
-
 
 export const navLinks = [
   {
@@ -161,37 +158,7 @@ const experiences = [
       "Developed and optimized algorithms using Python, TensorFlow, and scikit-learn to solve complex problems.",
     ],
   },
- 
 ];
-
-
-
-/*
-
-const testimonials = [
-  {
-    image: img4,
-    name : "SIH Hackathon", 
-  },
-  {
-   
-    image: img2,
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-];
-
-*/
-
-
-
-
 
 export const hackathons = [
   {
@@ -243,12 +210,6 @@ export const hackathons = [
    
   },
 ];
-
-
-
-
-
-
 
 const projects = [
 
@@ -320,17 +281,5 @@ const projects = [
     deployment_link: "",
     source_code_link: "https://github.com/Kunwar-awadhiya/Advance-login-authentication",
   },
-  
-
-    
-
-
-
-
-
-
-
-
 ];
-
 export { services, technologies, experiences,  projects };
